@@ -1,4 +1,4 @@
 WATCola
 =======
 
-Concurrency assignment - Final project
+CS343 - Concurrency - Final project - WATCola concession service emulation
